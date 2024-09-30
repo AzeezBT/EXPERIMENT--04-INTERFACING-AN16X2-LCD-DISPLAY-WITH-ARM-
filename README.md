@@ -182,7 +182,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
   Lcd_string(&lcd, "DEPT scoft");
 
   Lcd_cursor(&lcd, 1,0);
-  Lcd_string(&lcd, "Santhan");
+  Lcd_string(&lcd, "Azeez");
 ```
 
 
